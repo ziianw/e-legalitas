@@ -83,7 +83,7 @@ header a:hover, footer a:hover {
   height: 100vh;
   width: 100%;
   position: relative;
-  background: url("/images/landingpage.jpg");
+  background: url("/public/landingpage.jpg");
   background-position: center 65%;
   background-size: cover;
   background-attachment: fixed;
@@ -861,7 +861,7 @@ nav .navbar .links li .sub-menu li{
   height: 100vh;
   width: 100%;
   position: relative;
-  background: url("/images/kantor1.jpg");
+  background: url("/public/kantor1.jpg");
   background-position: center 65%;
   background-size: cover;
   background-attachment: fixed;
